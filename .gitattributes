@@ -1,0 +1,7 @@
+# Scripts bash precisam de LF, mesmo quando clonados no Windows.
+* text=auto
+*.sh text eol=lf
+Makefile text eol=lf
+docker-compose.yml text eol=lf
+config/.env.example text eol=lf
+*.cmd text eol=crlf

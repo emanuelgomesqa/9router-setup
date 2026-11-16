@@ -1,0 +1,6 @@
+.env
+.env.bak.*
+.install-mode
+backups/
+logs/
+*.tmp
